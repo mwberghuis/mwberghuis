@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+This repository contains some of my research work focused on modeling soft structures that are particularly useful for the soft robotics community. The models in this repository were primarily created using COMSOL Multiphysics.
+
+Contact
+For any questions or inquiries, feel free to reach out to me via GitHub or email at [minkeberghuis@gmail.com].
+
 <!--
 **mwberghuis/mwberghuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
